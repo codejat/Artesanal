@@ -1,0 +1,12 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rlMainContent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CardsActivity">
+    <!--Artesanal Jtomaylla 2016-03-09-->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvContacts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</RelativeLayout>

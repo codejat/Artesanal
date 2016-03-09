@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Artesanal Jtomaylla 2016-03-09-->
+    <string name="app_name">Artesanal</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+</resources>
