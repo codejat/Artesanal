@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import app.com.ecandle.artesanal.R;
-// Artesanal Jtomaylla 2016-03-09
+
 // Container class to hold Contact information.
 public class Contact implements Serializable {
     private String mName;

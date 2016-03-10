@@ -12,13 +12,14 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import app.com.ecandle.artesanal.R;
-import app.com.ecandle.artesanal.activities.DetailsActivity;
-import app.com.ecandle.artesanal.models.Contact;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
-// Artesanal Jtomaylla 2016-03-09
+
+import app.com.ecandle.artesanal.R;
+import app.com.ecandle.artesanal.activities.DetailsActivity;
+import app.com.ecandle.artesanal.models.Contact;
+
 // Provide the underlying view for an individual list item.
 public class ContactsAdapter extends RecyclerView.Adapter<ContactsAdapter.VH> {
     private Activity mContext;
@@ -92,10 +93,5 @@ public class ContactsAdapter extends RecyclerView.Adapter<ContactsAdapter.VH> {
             });
         }
     }
-
-//
-//    public void showDetails(Contact contact,Context context){
-//
-//
-//    }
+    
 }

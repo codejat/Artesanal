@@ -2,7 +2,7 @@
     android:id="@+id/rldetailsContainer"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-    <!--Artesanal Jtomaylla 2016-03-09-->
+
     <ImageView
         android:id="@+id/ivProfile"
         android:scaleType="centerCrop"
