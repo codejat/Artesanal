@@ -19,7 +19,7 @@ import java.util.List;
 import app.com.ecandle.artesanal.R;
 import app.com.ecandle.artesanal.activities.DetailsActivity;
 import app.com.ecandle.artesanal.models.Contact;
-
+// Taller Artesanal Jtomaylla 2016-03-10
 // Provide the underlying view for an individual list item.
 public class ContactsAdapter extends RecyclerView.Adapter<ContactsAdapter.VH> {
     private Activity mContext;
@@ -93,5 +93,5 @@ public class ContactsAdapter extends RecyclerView.Adapter<ContactsAdapter.VH> {
             });
         }
     }
-    
+
 }

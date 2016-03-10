@@ -11,6 +11,7 @@ import com.squareup.picasso.Picasso;
 
 import app.com.ecandle.artesanal.R;
 import app.com.ecandle.artesanal.models.Contact;
+// Taller Artesanal Jtomaylla 2016-03-10
 public class DetailsActivity extends AppCompatActivity {
     public static final String EXTRA_CONTACT = "EXTRA_CONTACT";
     private Contact mContact;

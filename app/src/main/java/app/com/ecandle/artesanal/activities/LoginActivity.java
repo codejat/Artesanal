@@ -34,7 +34,7 @@ import java.util.List;
 import app.com.ecandle.artesanal.R;
 
 import static android.Manifest.permission.READ_CONTACTS;
-
+// Taller Artesanal Jtomaylla 2016-03-10
 /**
  * A login screen that offers login via email/password.
  */
